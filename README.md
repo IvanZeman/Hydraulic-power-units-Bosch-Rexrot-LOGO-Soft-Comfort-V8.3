@@ -1,6 +1,6 @@
 # Hydraulic-power-units-Bosch-Rexroth-
 
-PLC program created in LOGO!Soft Comfort V8.3 software
+PLC program created in LOGO!Soft Comfort V8.3 
 
 ![Photo_of_programming_hydraulic_unit_2](https://github.com/IvanZeman/Hydraulic-power-units-Bosch-Rexrot-LOGO-Soft-Comfort-V8.3/assets/142148101/8852a7ea-7519-4977-9e71-1307fd95477a)
 
