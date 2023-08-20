@@ -1,6 +1,6 @@
 # Hydraulic-power-units-Bosch-Rexroth-
 
-Hydraulic pump SYDFEE-20/028R, 2 x electromagnetic 3-position 4-way hydraulic valves with hydraulic locks, water oil cooling (with 2 thermostats), level switch and other control elements.
+Hydraulic pump SYDFEE-20/028R, 2 electromagnetic 3-position 4-way hydraulic valves with hydraulic locks, water oil cooling (with 2 thermostats), level switch and other control elements.
 
 PLC program created in LOGO!Soft Comfort V8.3 
 
