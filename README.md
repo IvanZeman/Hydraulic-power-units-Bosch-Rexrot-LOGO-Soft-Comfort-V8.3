@@ -1,6 +1,6 @@
 # Hydraulic-power-units-Bosch-Rexroth-
 
-Čerpadlo SYDFEE-20/028R, 2 elektromagnetické 3-polohové 4-cestné hydraulické rozdeľovače s hydraulickými zámkami, vodné chladenie oleja (s 2 termostatmi), spínač úrovne hladiny a ďalšie prvky riadenia.
+Hydraulic pump SYDFEE-20/028R, 2 x electromagnetic 3-position 4-way hydraulic valves with hydraulic locks, water oil cooling (with 2 thermostats), level switch and other control elements.
 
 PLC program created in LOGO!Soft Comfort V8.3 
 
