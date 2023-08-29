@@ -12,11 +12,7 @@ ESC + ► = Core B in
 
 ESC + ◄ = Core B out
 
-F1 = Start motor
-
-F2 = Stop motor
-
-F3 = Service screen
+F1 = Start motor, F2 = Stop motor, F3 = Service screen
 
 PLC program created in LOGO!Soft Comfort V8.3:
 
