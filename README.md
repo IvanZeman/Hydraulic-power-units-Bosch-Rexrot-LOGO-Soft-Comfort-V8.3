@@ -3,12 +3,19 @@
 Hydraulic pump SYDFEE-20/028R, 2 x electromagnetic 3-position 4-way hydraulic valves with hydraulic locks, water oil cooling (with 2 thermostats), level switch and other control elements.
 
 Manual control:
+
 ESC + ▲ = Core A out
+
 ESC + ▼ = Core A in
+
 ESC + ► = Core B in
+
 ESC + ◄ = Core B out
+
 F1 = Start motor
+
 F2 = Stop motor
+
 F3 = Service screen
 
 PLC program created in LOGO!Soft Comfort V8.3:
